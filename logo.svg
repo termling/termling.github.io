@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="termling">
+  <rect x="6" y="10" width="52" height="44" rx="13" fill="#111820" stroke="#5ef2c6" stroke-width="3"/>
+  <path d="M20 10 l4 -6 M44 10 l-4 -6" stroke="#c6a8ff" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="25" cy="30" r="6.5" fill="#5ef2c6"/><circle cx="27" cy="27.6" r="1.9" fill="#111820"/>
+  <circle cx="43" cy="30" r="6.5" fill="#5ef2c6"/><circle cx="45" cy="27.6" r="1.9" fill="#111820"/>
+  <path d="M25 41 q9 7 18 0" fill="none" stroke="#5ef2c6" stroke-width="3" stroke-linecap="round"/>
+</svg>
